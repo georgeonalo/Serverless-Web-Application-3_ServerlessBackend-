@@ -126,9 +126,9 @@ Make sure to configure your function to use the WildRydesLambda IAM role you cre
 
 9. Click on Create function.
 
-10. Scroll down to the Function code section and replace the existing code in the index.js code editor with the contents of requestUnicorn.js.
+10. Scroll down to the Function code section and replace the existing code in the index.js code editor with the contents of [requestUnicorn.js]
 
-![image](https://user-images.githubusercontent.com/115881685/208959450-f7b566ef-fe2a-4636-baa7-64a7e2df3714.png)
+(https://user-images.githubusercontent.com/115881685/208959450-f7b566ef-fe2a-4636-baa7-64a7e2df3714.png)
 
 11. Click "Save" in the upper right corner of the page.
 
