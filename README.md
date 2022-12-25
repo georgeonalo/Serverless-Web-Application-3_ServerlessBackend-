@@ -100,7 +100,7 @@ AWS Lambda will run your code in response to events such as an HTTP request. In 
 
 ##### High-Level Instructions
 
-Use the AWS Lambda console to create a new Lambda function called RequestUnicorn that will process the API requests. Use the provided requestUnicorn.js: ([https://github.com/georgeonalo/Serverless-Web-Application-requestUnicorn.js]) example implementation for your function code. Just copy and paste from that file into the AWS Lambda console's editor.
+Use the AWS Lambda console to create a new Lambda function called RequestUnicorn that will process the API requests. Use the provided [requestUnicorn.js](https://github.com/georgeonalo/Serverless-Web-Application-requestUnicorn.js) example implementation for your function code. Just copy and paste from that file into the AWS Lambda console's editor.
 
 Make sure to configure your function to use the WildRydesLambda IAM role you created in the previous section.
 
